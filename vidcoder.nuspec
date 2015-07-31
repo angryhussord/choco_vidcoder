@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>vidcoder</id>
     <title>VidCoder</title>
-    <version>1.5.26</version>
+    <version>1.5.31</version>
     <authors>RandomEng</authors>
     <owners>angryhussord</owners>
     <summary>VidCoder is a DVD/Blu-ray ripping and video transcoding application for Windows.</summary>
@@ -20,7 +20,7 @@
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
-    <releaseNotes>https://vidcoder.codeplex.com/releases/view/137321</releaseNotes>
+    <releaseNotes>https://vidcoder.codeplex.com/releases/</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

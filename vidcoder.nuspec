@@ -5,22 +5,22 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>vidcoder</id>
     <title>VidCoder</title>
-    <version>1.5.31.1</version>
+    <version>1.5.32</version>
     <authors>RandomEng</authors>
     <owners>angryhussord</owners>
     <summary>VidCoder is a DVD/Blu-ray ripping and video transcoding application for Windows.</summary>
     <description>VidCoder is a DVD/Blu-ray ripping and video transcoding application for Windows. It uses HandBrake as its encoding engine.
 	| Calling directly into the HandBrake library gives it a more rich UI than the official HandBrake Windows GUI.</description>
-    <projectUrl>https://vidcoder.codeplex.com/</projectUrl>
+    <projectUrl>http://vidcoder.net/</projectUrl>
     <tags>Handbrake Windows video transcoding blu-ray dvd ripper</tags>
     <copyright></copyright>
-    <licenseUrl>https://vidcoder.codeplex.com/license</licenseUrl>
+    <licenseUrl>https://github.com/RandomEngy/VidCoder/blob/master/License.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/angryhussord/choco_vidcoder/f5ee73420c270e4b2ee87227bd020b58ace55c28/vidcoder_icon.PNG</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
-    <releaseNotes>https://vidcoder.codeplex.com/releases/</releaseNotes>
+    <releaseNotes>https://github.com/RandomEngy/VidCoder/releases</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

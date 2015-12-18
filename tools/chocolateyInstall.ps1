@@ -1,7 +1,7 @@
 ﻿$packageName = 'vidcoder' 
 $installerType = 'exe' 
-$url = 'https://github.com/RandomEngy/VidCoder/releases/download/v1.5.32/VidCoder-1.5.32-x86.exe' 
-$url64 = 'https://github.com/RandomEngy/VidCoder/releases/download/v1.5.32/VidCoder-1.5.32-x64.exe' 
+$url = 'https://github.com/RandomEngy/VidCoder/releases/download/v1.5.32/VidCoder-1.5.33-x86.exe' 
+$url64 = 'https://github.com/RandomEngy/VidCoder/releases/download/v1.5.33/VidCoder-1.5.33-x64.exe' 
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' 
 $validExitCodes = @(0) 
 

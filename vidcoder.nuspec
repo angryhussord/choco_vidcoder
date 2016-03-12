@@ -15,6 +15,10 @@
     <tags>Handbrake Windows video transcoding blu-ray dvd ripper</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/RandomEngy/VidCoder/blob/master/License.txt</licenseUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_vidcoder</packageSourceUrl>
+    <docsUrl>http://vidcoder.net/Documentation/RippingDiscs.html</docsUrl>
+    <bugTrackerUrl>https://github.com/RandomEngy/VidCoder/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/RandomEngy/VidCoder</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/angryhussord/choco_vidcoder/f5ee73420c270e4b2ee87227bd020b58ace55c28/vidcoder_icon.PNG</iconUrl>
     <!--<dependencies>

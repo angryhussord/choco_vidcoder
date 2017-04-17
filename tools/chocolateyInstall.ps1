@@ -3,8 +3,8 @@
 $packageName = 'vidcoder'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)";
 $installerType = 'EXE'
-$url = 'https://github.com/RandomEngy/VidCoder/releases/download/v2.50/VidCoder-2.50-x86.exe' 
-$url64 = 'https://github.com/RandomEngy/VidCoder/releases/download/v2.50/VidCoder-2.50-x64.exe' 
+$url = 'https://github.com/RandomEngy/VidCoder/releases/download/v2.51/VidCoder-2.51-x86.exe' 
+$url64 = 'https://github.com/RandomEngy/VidCoder/releases/download/v2.51/VidCoder-2.51-x64.exe' 
 
 $packageArgs = @{
   packageName   = $packageName
@@ -15,9 +15,9 @@ $packageArgs = @{
   silentArgs    = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
   validExitCodes= @(0)
   softwareName  = 'vidcoder*'
-  checksum      = '07D4C13B8A4ACFD445136125C905E62288F42AF8EE59FB000DB460A0891926EA'
+  checksum      = 'E2E85A5C6465E0A7D542F03F4D929BCD3F8F150D16897EA7AAADE82F5AB708BA'
   checksumType  = 'sha256'
-  checksum64      = 'CE33849F0CEF9E3214098D811974B0763B604C3E999969E9A1A8029F29EEF778'
+  checksum64      = 'D72E92C619019D66BCFFAF9D2329FB96790CEB39008F73070CAA31B508DDB96D'
   checksumType64  = 'sha256'
 };
 

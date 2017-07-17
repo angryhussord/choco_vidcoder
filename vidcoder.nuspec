@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>vidcoder</id>
     <title>VidCoder</title>
-    <version>2.51</version>
+    <version>2.56</version>
     <authors>RandomEng</authors>
     <owners>angryhussord</owners>
     <summary>VidCoder is a DVD/Blu-ray ripping and video transcoding application for Windows.</summary>
